@@ -7,5 +7,6 @@ Webの知識について勉強したことをまとめるレポジトリ。
 * HTML & CSS **<- Now Studying**
 * JavaScript
 * Python
+* SQL
 * Webスクレイピング
 * 勉強したことを踏まえてアプリケーション開発をする
